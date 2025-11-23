@@ -14,7 +14,6 @@ A small, modular Python chatbot application with conversation- and statement-lev
 - **Running Tests**
 - **Development Notes & Contributing**
 - **Troubleshooting**
-- **License & Credits**
 
 ## Project Summary
 
